@@ -18,7 +18,7 @@ Nós acreditamos que o engajamento virtual para movimentação de economias loca
 
 ![Meu Bairro - Faça conexões no seu bairro com empresas e prestadores de serviços.](https://meubairro.jusblog.com/assets/img/prototype/v1/api.png)
 
-A API que compartilhará o mapeio dos dados de empresários e prestadores de serviços locais publicamente para qualquer outra Startup que quiser explorar indicadores regionalizados. Na versão de demonstração deste protótipo funcional, todos os dados de cadastro estão disponíveis neste endpoint. Contudo, o compartilhamento dessas informações com terceiros, na versão beta, atenderá aos requisitos da Lei Geral de Proteção de Dados Pessoais (LGPD).
+A API que compartilhará o mapeio dos dados de empresários e prestadores de serviços locais publicamente para qualquer outra Startup que quiser explorar indicadores regionalizados. Na versão de demonstração deste protótipo funcional, para fins didáticos (estrutura GeoJson), todos os dados de cadastro estão disponíveis neste endpoint. Contudo, o compartilhamento dessas informações com terceiros, na versão beta, atenderá aos requisitos da Lei Geral de Proteção de Dados Pessoais (LGPD).
 
 ![Meu Bairro - Faça conexões no seu bairro com empresas e prestadores de serviços.](https://meubairro.jusblog.com/assets/img/prototype/v1/home.jpeg)
 
@@ -44,12 +44,17 @@ A API que compartilhará o mapeio dos dados de empresários e prestadores de ser
 
 ## TIME 146 (Shawee)
 
-- @jferracini (UX)
-- @felipeoliveiraamaro (Marketing)
-- @fredsrocha (Dev)
-- @paulinhocrisci (Dev)
-- @pedrophop (Business)
-- @diegobussdeoliveira (Business)
+@jferracini (UX)
+
+@felipeoliveiraamaro (Marketing)
+
+@fredsrocha (Dev)
+
+@paulinhocrisci (Dev)
+
+@pedrophop (Business)
+
+@diegobussdeoliveira (Business)
 
 <p align="right">
  <b>&copy; Mega Hack Economia 2020</b>

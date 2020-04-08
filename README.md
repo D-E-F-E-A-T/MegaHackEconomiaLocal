@@ -8,7 +8,7 @@ O usuário se conecta aos empreendedores da sua região selecionando cidade e ba
 
 A monetização se dará por meio de propagandas disponíveis no site/blog do “Meu Bairro”, considerando o nicho gigantesco altamente fragmentado de bairros no mundo.
 
-Por fim, temos a API, que pressupõe colaboração ativa de forma  pública com indicadores que auxiliem diretamente o sucesso de outras Startups que estão buscando ajudar empreendedores locais de forma mais específica. Por exemplo, pode haver uma Startup que está trabalhando com a proposta de virtualizar agendamentos para que  cabeleireiros e barbeiros possam atender clientes de forma individual, a fim de evitar aglomerações.
+Por fim, temos a API, que pressupõe colaboração ativa e estará disponível publicamente, para ofertar indicadores que auxiliem diretamente o sucesso de outras Startups que estão buscando ajudar empreendedores locais de forma mais específica. Por exemplo, pode haver uma Startup que está trabalhando com a proposta de virtualizar agendamentos para que  cabeleireiros e barbeiros possam atender clientes de forma individual, a fim de evitar aglomerações.
 
 Neste sentido, a Startup a exemplo, poderá fazer uma solicitação na nossa API para saber quantos cabeleireiros e barbeiros há em um determinado bairro, seguir para o bairro, criar conexões e fazer negócios. Porquê? Porque juntos somos mais!
 
